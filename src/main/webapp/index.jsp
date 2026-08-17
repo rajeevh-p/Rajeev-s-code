@@ -115,6 +115,38 @@
                 <span>9.2</span>
                 <h2>Me Karis and Kulda</h2>
 
+	    <div class="swiper-slide">
+              <img
+                src="rajeevnew.jpg"
+                alt="" />
+              <div class="overlay">
+                <span>9.2</span>
+                <h2>rajeevadded</h2>
+
+	    <div class="swiper-slide">
+              <img
+                src="flower.jpg"
+                alt="" />
+              <div class="overlay">
+                <span>9.2</span>
+                <h2>bramhakamala</h2>
+
+            <div class="swiper-slide">
+              <img
+                src="rajeevroom.jpg"
+                alt="" />
+              <div class="overlay">
+                <span>9.2</span>
+                <h2>screenshot</h2>
+
+	    <div class="swiper-slide">
+              <img
+                src="tdy.one.png"
+                alt="" />
+              <div class="overlay">
+                <span>9.2</span>
+                <h2>augphoto</h2>
+
               </div>
             </div>
           </div>
