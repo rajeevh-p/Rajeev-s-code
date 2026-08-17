@@ -117,7 +117,7 @@
 
 	    <div class="swiper-slide">
               <img
-                src="newone.jpg"
+                src="new.jpg"
                 alt="" />
               <div class="overlay">
                 <span>9.2</span>
