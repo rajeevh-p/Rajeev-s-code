@@ -115,6 +115,14 @@
                 <span>9.2</span>
                 <h2>Me Karis and Kulda</h2>
 
+	    <div class="swiper-slide">
+              <img
+                src="newone.jpg"
+                alt="" />
+              <div class="overlay">
+                <span>9.2</span>
+                <h2>addnew</h2>
+
               </div>
             </div>
           </div>
