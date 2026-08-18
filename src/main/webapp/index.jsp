@@ -123,6 +123,14 @@
                 <span>9.2</span>
                 <h2>addnew1</h2>
 
+            <div class="swiper-slide">
+              <img
+                src="august19.jpg"
+                alt="" />
+              <div class="overlay">
+                <span>9.2</span>
+                <h2>augu19</h2>
+
               </div>
             </div>
           </div>
