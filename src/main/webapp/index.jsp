@@ -117,11 +117,11 @@
 
 	    <div class="swiper-slide">
               <img
-                src="new1.jpg"
+                src="new2.jpg"
                 alt="" />
               <div class="overlay">
                 <span>9.2</span>
-                <h2>addnew</h2>
+                <h2>addnew1</h2>
 
               </div>
             </div>
